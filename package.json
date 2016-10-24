@@ -96,7 +96,7 @@
     "eslint-plugin-babel": "^3.0.0",
     "eslint-plugin-import": "^1.6.1",
     "eslint-plugin-jsx-a11y": "^2.0.1",
-    "eslint-plugin-markdown": "*",
+    "eslint-plugin-markdown": "latest",
     "eslint-plugin-react": "^6.1.2",
     "eslint-tinker": "^0.4.0",
     "history": "^3.0.0",
